@@ -33,4 +33,4 @@ O script utiliza a integração entre **AWS Glue**, **S3** e **Python**, realiza
 3. Execute o job no AWS Glue.
 
 ## 📜 **Licença**
-Este projeto está licenciado sob os termos da Licença MIT.
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
