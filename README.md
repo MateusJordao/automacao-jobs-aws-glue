@@ -32,5 +32,5 @@ O script utiliza a integração entre **AWS Glue**, **S3** e **Python**, realiza
 2. Atualize o script do job no AWS Glue.
 3. Execute o job no AWS Glue.
 
-##📜 **Licença**
+## 📜 **Licença**
 Este projeto está licenciado sob os termos da Licença MIT.
